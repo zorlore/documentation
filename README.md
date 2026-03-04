@@ -23,3 +23,9 @@ ZorLore consists of four main parts:
 
 - [`EDITOR.md`](https://github.com/zorlore/documentation/blob/main/EDITOR.md)  
   Learn what the editor can do and how to start building your world.
+
+- [`OTBM2.md`](https://github.com/zorlore/documentation/blob/main/OTBM2.md)  
+  Technical format reference for third-party OTBM2 readers/writers and tooling.
+
+- [`OTBM2_BINARY_SPEC.md`](https://github.com/zorlore/documentation/blob/main/OTBM2_BINARY_SPEC.md)  
+  Full binary field-by-field specification for OTBM2 packs and world container blobs.
