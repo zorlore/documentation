@@ -15,12 +15,11 @@ ZorLore consists of four main parts:
 
 ## Read Next
 
-- `documentation/GAMESERVER.md`  
+- [`GAMESERVER.md`](https://github.com/zorlore/documentation/blob/main/GAMESERVER.md)  
   Download, configure, and run the ZorLore game server.
 
-- `documentation/BRIDGE.md`  
+- [`BRIDGE.md`](https://github.com/zorlore/documentation/blob/main/BRIDGE.md)  
   Download, configure, and run the ZorLore bridge.
 
-- `documentation/EDITOR.md`  
+- [`EDITOR.md`](https://github.com/zorlore/documentation/blob/main/EDITOR.md)  
   Learn what the editor can do and how to start building your world.
-
