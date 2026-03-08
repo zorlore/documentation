@@ -47,6 +47,10 @@ Path: `gameserver/config.yaml`
 
 - `world`: World name.
 - `state`: Server state (`public`, etc.).
+- `exprate`: Experience multiplier for creature kill XP. Defaults to `1`. Fractional results are rounded up. Example: rat `5 XP` with `exprate: 1.5` gives `8 XP`.
+- `regenrate`: Multiplier for automatic player regeneration of hitpoints, mana, and soul points. Defaults to `1`. Fractional results are rounded up.
+- `skillrate`: Multiplier for skill gain speed. Applies to magic level, sword, axe, club, fist, fishing, and distance fighting. Defaults to `1`. Fractional results are rounded up.
+- `lootrate`: Multiplier for loot drop odds using repeated-roll scaling instead of raw percentage multiplication. Defaults to `1`. Higher values improve loot chances without making mid-tier drops become guaranteed as quickly.
 
 ### Save Window
 
@@ -95,4 +99,3 @@ On Windows:
 ```
 
 Make sure Bridge is running first and both `config.yaml` files are aligned.
-
